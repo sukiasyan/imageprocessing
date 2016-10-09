@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ImageProject:jar">
+    <output-path>$USER_HOME$/Desktop/jar</output-path>
+    <root id="archive" name="ImageProject.jar">
+      <element id="module-output" name="ImageProject" />
+    </root>
+  </artifact>
+</component>
